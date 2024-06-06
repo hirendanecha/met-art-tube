@@ -68,7 +68,7 @@ export class HomeComponent implements OnInit, AfterViewInit {
       }
     });
     const data = {
-      title: `Pussy.Ventures`,
+      title: `video.MetArt.tube`,
       description: '',
     };
     this.seoService.updateSeoMetaData(data);
